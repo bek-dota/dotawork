@@ -10,8 +10,7 @@
 |---|---|---|---|
 | 林建華 (Hide) | 代表人 / 設計總監 | Boss Model | ✅ v0.1 完成（`boss_model.md` 鏡像） |
 | Yvon | 總監 / 財務法務・營運 | Boss Model | ⬜ GAP，獨立 Boss Scan 待跑 |
-| Molly | 行銷企劃／品牌營運（整合節點） | Key Role OS | ✅ v0.1 完成 |
-| 李育如（育如） | 行銷企劃 | Key Role OS | 🟡 已訪談（2026-05-04），OS 檔案待匯入 repo |
+| 李育如（Molly） | 行銷企劃／品牌營運（整合節點） | Key Role OS | ✅ v0.1 完成（Molly = 育如，同一人） |
 | 王淑惠 | 會計／行政（待確認） | Key Role OS | ⬜ 待訪談 |
 | 廷潔（潔） | 治器官網／設計（待確認） | Key Role OS | ⬜ 待訪談 |
 | Roxanne | 繪圖（待確認） | Key Role OS | ⬜ 待訪談 |
@@ -27,7 +26,6 @@
 
 ## 下一步建議順序
 1. Yvon 獨立 Boss Scan（解鎖 Dual Boss Router，目前所有 Yvon 職權判斷都卡在「升級」）
-2. 育如 Key Role OS 匯入（已有訪談，補進 repo + 出版）
-3. 王淑惠（會計行政）— 解請款/財務流程缺口最相關
-4. 廷潔、Roxanne
-5. Winy Wang 重訪
+2. 王淑惠（會計行政）— 解請款/財務流程缺口最相關
+3. 廷潔、Roxanne
+4. Winy Wang 重訪
